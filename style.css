@@ -1,0 +1,40 @@
+.headings{
+    font-family: Agbalumo;
+    font-size: 35px;
+    text-align: center;
+    color:rgb(173, 11, 43);
+}
+body{
+    background-color: rgb(241, 157, 174);
+}
+.imgtag{
+    display: inline-block;
+    width: 300px;
+    border-radius: 30px;
+    border: ridge 5px crimson;
+    margin: 40px;
+    margin-left: 41%;
+   
+}
+.random{
+    
+    border: ridge 10px rgb(178, 115, 236);
+}
+#imgatom1{
+    width: 500px;
+    margin-left: 680px;
+    display: inline-block;
+}
+#imgatom2{
+    width: 500px;
+    margin-left: 690px;
+}
+.ptag{
+    font-size: 25px;
+    font-family: Delicious Handrawn;
+    color: rgb(82, 3, 3);
+}
+.atom_structure{
+    background-color: pink;
+}
+
